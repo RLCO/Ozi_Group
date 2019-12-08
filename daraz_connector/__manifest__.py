@@ -10,8 +10,8 @@
         Daraz Connector
     """,
 
-    'author': "Hassan Ali",
-    'website': "http://www.falconitsol.com",
+    'author': "Hunain",
+    'website': "http://www.telenoc.org",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/11.0/odoo/addons/base/module/module_data.xml
